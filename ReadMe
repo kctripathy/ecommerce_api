@@ -1,0 +1,3 @@
+
+import the array to mongodb
+mongoimport --jsonArray --db YourDatabase --collection YourCollection --file Yourfile.json
